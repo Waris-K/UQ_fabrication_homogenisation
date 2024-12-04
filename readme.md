@@ -10,6 +10,9 @@ This work focuses on quantifying fabrication-induced uncertainties in triply per
 
 ## Methodology
 
+
+![Methodology Overview](methodology.png)
+
 ### 1. **Geometric Analysis**
 - Conducted micro-CT scans using a SkyScan 1172 microtomograph.
 - Applied thresholding and the Otsu method to distinguish solid and void phases.
